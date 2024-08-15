@@ -17,7 +17,7 @@ Disallow: /*.xls$
 Disallow: /*.xlsx$
 
 # Sitemap location
-Sitemap: https://www.yoursite.com/sitemap.xml
+Sitemap: https://yellow-leaf-hammock-v2.vercel.app/sitemap.xml
 
 # Prevent specific crawlers from accessing the site
 User-agent: BadBot

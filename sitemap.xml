@@ -3,56 +3,56 @@
     
     <!-- Home Page -->
     <url>
-        <loc>https://www.yoursite.com/index.html</loc>
+        <loc>https://yellow-leaf-hammock-v2.vercel.app/index.html</loc>
         <lastmod>2024-08-14</lastmod>
         <priority>1.00</priority>
     </url>
 
     <!-- Products Page -->
     <url>
-        <loc>https://www.yoursite.com/product.html</loc>
+        <loc>https://yellow-leaf-hammock-v2.vercel.app/product.html</loc>
         <lastmod>2024-08-14</lastmod>
         <priority>0.80</priority>
     </url>
 
     <!-- About Us Page -->
     <url>
-        <loc>https://www.yoursite.com/about.html</loc>
+        <loc>https://yellow-leaf-hammock-v2.vercel.app/about.html</loc>
         <lastmod>2024-08-14</lastmod>
         <priority>0.80</priority>
     </url>
 
     <!-- FAQ Page -->
     <url>
-        <loc>https://www.yoursite.com/faq.html</loc>
+        <loc>https://yellow-leaf-hammock-v2.vercel.app/faq.html</loc>
         <lastmod>2024-08-14</lastmod>
         <priority>0.70</priority>
     </url>
 
     <!-- Testimonials Page -->
     <url>
-        <loc>https://www.yoursite.com/testimonials.html</loc>
+        <loc>https://yellow-leaf-hammock-v2.vercel.app/testimonials.html</loc>
         <lastmod>2024-08-14</lastmod>
         <priority>0.70</priority>
     </url>
 
     <!-- Sustainability Page -->
     <url>
-        <loc>https://www.yoursite.com/sustainability.html</loc>
+        <loc>https://yellow-leaf-hammock-v2.vercel.app/sustainability.html</loc>
         <lastmod>2024-08-14</lastmod>
         <priority>0.70</priority>
     </url>
 
     <!-- Blog Page -->
     <url>
-        <loc>https://www.yoursite.com/blog.html</loc>
+        <loc>https://yellow-leaf-hammock-v2.vercel.app/blog.html</loc>
         <lastmod>2024-08-14</lastmod>
         <priority>0.70</priority>
     </url>
 
     <!-- Contact Page -->
     <url>
-        <loc>https://www.yoursite.com/contact.html</loc>
+        <loc>https://yellow-leaf-hammock-v2.vercel.app/contact.html</loc>
         <lastmod>2024-08-14</lastmod>
         <priority>0.80</priority>
     </url>
