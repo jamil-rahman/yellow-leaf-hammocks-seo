@@ -1,0 +1,39 @@
+# robots.txt file for SEO
+
+# Allow all search engines
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /scripts/
+Disallow: /tmp/
+Disallow: /private/
+
+# Disallow access to certain file types
+User-agent: *
+Disallow: /*.pdf$
+Disallow: /*.doc$
+Disallow: /*.docx$
+Disallow: /*.xls$
+Disallow: /*.xlsx$
+
+# Sitemap location
+Sitemap: https://www.yoursite.com/sitemap.xml
+
+# Prevent specific crawlers from accessing the site
+User-agent: BadBot
+Disallow: /
+
+# Allow access to specific directories
+User-agent: *
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
+# Block specific parameters in URLs
+User-agent: *
+Disallow: /*?sessionid=
+Disallow: /*?trackingid=
+
+# Set crawl delay (in seconds)
+User-agent: *
+Crawl-delay: 10

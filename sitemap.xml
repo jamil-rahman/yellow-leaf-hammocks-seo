@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <!-- Home Page -->
+    <url>
+        <loc>https://www.yoursite.com/index.html</loc>
+        <lastmod>2024-08-14</lastmod>
+        <priority>1.00</priority>
+    </url>
+
+    <!-- Products Page -->
+    <url>
+        <loc>https://www.yoursite.com/product.html</loc>
+        <lastmod>2024-08-14</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- About Us Page -->
+    <url>
+        <loc>https://www.yoursite.com/about.html</loc>
+        <lastmod>2024-08-14</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- FAQ Page -->
+    <url>
+        <loc>https://www.yoursite.com/faq.html</loc>
+        <lastmod>2024-08-14</lastmod>
+        <priority>0.70</priority>
+    </url>
+
+    <!-- Testimonials Page -->
+    <url>
+        <loc>https://www.yoursite.com/testimonials.html</loc>
+        <lastmod>2024-08-14</lastmod>
+        <priority>0.70</priority>
+    </url>
+
+    <!-- Sustainability Page -->
+    <url>
+        <loc>https://www.yoursite.com/sustainability.html</loc>
+        <lastmod>2024-08-14</lastmod>
+        <priority>0.70</priority>
+    </url>
+
+    <!-- Blog Page -->
+    <url>
+        <loc>https://www.yoursite.com/blog.html</loc>
+        <lastmod>2024-08-14</lastmod>
+        <priority>0.70</priority>
+    </url>
+
+    <!-- Contact Page -->
+    <url>
+        <loc>https://www.yoursite.com/contact.html</loc>
+        <lastmod>2024-08-14</lastmod>
+        <priority>0.80</priority>
+    </url>
+</urlset>

@@ -1,0 +1,147 @@
+@font-face {
+    font-family: 'Galano';
+    src: url(./fonts/GalanoGrotesqueSemiBold.otf);
+}
+
+h2,
+h3 {
+    font-family: 'Galano', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.yt-h5 {
+    font-family: 'Galano', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.yt-p {
+    font-size: 1rem;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.btn-primary {
+    background-color: #FAFF4B;
+    color: #061839;
+}
+
+.lighter {
+    font-weight: 300;
+    opacity: 1;
+    color: #051839
+}
+
+.darker {
+    font-weight: 700;
+    opacity: 1;
+    color: #051839;
+}
+
+#textCarousel {
+    background-color: #DAF6F8;
+    padding: 20px;
+}
+
+.banner {
+    position: relative;
+    height: 100vh;
+}
+
+.banner-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3);
+    z-index: 1;
+}
+
+.banner-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    z-index: 2;
+}
+
+.home-testimonials {
+    background-color: #f8f2e4;
+    padding: 40px 0;
+}
+
+.logo-carousel .carousel-item {
+    height: 100px;
+}
+
+.logo-carousel img {
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.card {
+    position: relative;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+.play-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.05); 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1; 
+}
+
+.play-overlay:hover {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.09); 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1; 
+}
+
+.play-button {
+    width: 200px; 
+    height: 200px; 
+    z-index: 2; 
+}
+
+.card-img-top {
+    display: block;
+}
+
+
+.footer-half {
+    padding: 40px 90px 40px 90px
+}
+
+.footer-half a {
+    color: #061839;
+}
+
+.footer-half a:hover {
+    text-decoration: underline;
+}
